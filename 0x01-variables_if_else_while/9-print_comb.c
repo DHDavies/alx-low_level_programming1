@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Print all possible combinations of single-digit numbers seperated by ,, followed by space.
+ * main - Print all possible combinations of single-digit numbers.
+ * Description: seperated by ,, followed by space.
  *
  * Return: Always 0 (Success)
  */
