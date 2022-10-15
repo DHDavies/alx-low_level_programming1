@@ -4,7 +4,7 @@
  * main - Prints all possible different combinations of three digits.
  * Description: Numbers must be separated by ,, followed by a space
  * The three digits must be different
- * Any possible combination of three digits like 0, 1, and 2 are considered same
+ * Any possible combination of 3 digits like 0, 1 and 2 are considered same
  * Print only the smallest combination of three digits
  * Numbers should be printed in ascending order
  * You can only use the putchar function, and for a maximum of 6 times.
