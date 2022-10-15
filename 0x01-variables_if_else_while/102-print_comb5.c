@@ -11,6 +11,7 @@
  * Use only putchar, but a maximum of 8 times.
  * Do not use any variable of type char
  * All codes should be in the main function.
+ * Return: 0
  */
 int main(void)
 {
@@ -22,7 +23,7 @@ int main(void)
 		i = a % 10; /* for single fnums */
 		j = a / 10; /* for double fnums */
 
-		for (b = 0; b < 100; b ++)
+		for (b = 0; b < 100; b++)
 		{
 			k = b % 10; /* for single snums */
 			l = b / 10; /* for double snums */
